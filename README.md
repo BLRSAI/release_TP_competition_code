@@ -1,5 +1,7 @@
 # BLRS VAIC Pipeline
 
+Check out our [technical report here!](https://arxiv.org/abs/2211.14385)
+
 ## Dependencies
 - [tmux](https://github.com/tmux/tmux)
 - [pros-cli](https://github.com/purduesigbots/pros-cli)
